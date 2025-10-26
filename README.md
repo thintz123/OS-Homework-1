@@ -14,3 +14,5 @@ gcc producer.c -pthread -o producer
 gcc consumer.c -pthread -o consumer
 
 ./producer & ./consumer
+
+I used vscode to do this project and this compilation worked in the vscode terminal.
